@@ -1,6 +1,6 @@
 # Portfolio de datos · Lucas Andrés Márquez
 
-**Analista de Datos Sr · Calidad, validación y gobierno de datos · BI**
+**Analista de Datos · Calidad, validación y gobierno de datos · BI**
 
 <p>
   <a href="https://github.com/marquezlucas"><img src="https://img.shields.io/badge/Perfil-GitHub-181717?logo=github&logoColor=white" alt="Perfil"></a>
@@ -74,6 +74,6 @@ portfolio/
 
 ## Sobre mí
 
-Analista de datos Sr. con más de 4 años en banca, fintech y telecomunicaciones (BBVA, Getronics para Telefónica Hispam, Wenance). Me especializo en que los datos sean confiables antes de llegar a un tablero. Estudio la Licenciatura en Inteligencia Artificial y Ciencia de Datos en UADE. Me interesan los roles de datos en **energía y minería**.
+Analista de datos con más de 4 años en banca, fintech y telecomunicaciones (BBVA, Getronics para Telefónica Hispam, Wenance). Me especializo en que los datos sean confiables antes de llegar a un tablero. Estudio la Licenciatura en Inteligencia Artificial y Ciencia de Datos en UADE. Me interesan los roles de datos en **energía y minería**.
 
 📫 marquezlucas1511@gmail.com · [LinkedIn](https://www.linkedin.com/in/lucas-a-marquez/) · [Perfil de GitHub](https://github.com/marquezlucas)
