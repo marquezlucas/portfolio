@@ -1,0 +1,40 @@
+# --- Secretos y configuración local (NUNCA subir) ---
+.env
+*.env
+!.env.example
+**/config/airflow.cfg
+**/config/webserver_config.py
+*.pem
+*.key
+credentials*.json
+crs.txt
+
+# --- Python ---
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.ipynb_checkpoints/
+.pytest_cache/
+.ruff_cache/
+
+# --- Airflow (generado al correr docker compose) ---
+**/logs/
+**/plugins/
+airflow.db
+
+# --- Spark ---
+spark-warehouse/
+metastore_db/
+derby.log
+
+# --- Sistema operativo / editores ---
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
+
+# --- Power BI: los .pbix pueden contener datos personales. Publicar solo versiones anonimizadas ---
+*.pbix
+!*_anonimizado.pbix
