@@ -1,6 +1,6 @@
 # PySpark: RDD vs. DataFrame y árbol de decisión con MLlib
 
-> 🇬🇧 *PySpark exercises: the same aggregation with RDDs and with DataFrames, and a Decision Tree regressor with MLlib evaluated with RMSE and R².*
+> **EN ·** *PySpark exercises: the same aggregation with RDDs and with DataFrames, and a Decision Tree regressor with MLlib evaluated with RMSE and R².*
 
 | Script | Qué muestra |
 |---|---|

@@ -1,6 +1,6 @@
 # Precio por m² en Argentina: limpieza de avisos con regex y regresión
 
-> 🇬🇧 *Group project. Cleaning a real-estate listings dataset (Properati, Argentina) by extracting missing values from free-text descriptions with regular expressions, then modelling USD price per m² with linear, Ridge and Lasso regression, checking Gauss-Markov assumptions.*
+> **EN ·** *Group project. Cleaning a real-estate listings dataset (Properati, Argentina) by extracting missing values from free-text descriptions with regular expressions, then modelling USD price per m² with linear, Ridge and Lasso regression, checking Gauss-Markov assumptions.*
 
 **Trabajo grupal (Grupo 2):** Márquez, Mazzi, Murat, Morinigo y Quintana.
 

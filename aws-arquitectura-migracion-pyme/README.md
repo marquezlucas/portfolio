@@ -1,6 +1,6 @@
 # Arquitectura AWS para migrar una pyme industrial
 
-> 🇬🇧 *Cloud migration proposal for a chemical company that ran on departmental spreadsheets and a local ERP: a centralised AWS architecture built on RDS Multi-AZ, S3, EC2, VPC, IAM and CloudWatch.*
+> **EN ·** *Cloud migration proposal for a chemical company that ran on departmental spreadsheets and a local ERP: a centralised AWS architecture built on RDS Multi-AZ, S3, EC2, VPC, IAM and CloudWatch.*
 
 ## Situación inicial
 - Cada sector usaba sus propias planillas como base de datos, con criterios de métricas distintos.

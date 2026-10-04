@@ -1,6 +1,6 @@
 # Atribución multicanal y simulador de presupuesto
 
-> 🇬🇧 *Interactive Streamlit app summarising a sales-and-marketing attribution analysis: descriptive stats, a linear multi-touch attribution model, ROI by channel and a budget-reallocation simulator, with its assumptions stated explicitly.*
+> **EN ·** *Interactive Streamlit app summarising a sales-and-marketing attribution analysis: descriptive stats, a linear multi-touch attribution model, ROI by channel and a budget-reallocation simulator, with its assumptions stated explicitly.*
 
 ## Problema
 Al cruzar ventas con campañas por producto, **cada venta aparecía en los tres canales** (Redes, TV y Email): el 100 % de las ventas se solapaba. Una suma directa triplicaba la facturación y cualquier ROI calculado así resultaba inflado.

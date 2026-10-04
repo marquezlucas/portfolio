@@ -1,6 +1,6 @@
 # Pipeline API → Redshift con Airflow y controles de calidad
 
-> 🇬🇧 *Daily Airflow pipeline that extracts data from a public REST API, loads it idempotently into Amazon Redshift and runs post-load data quality checks. Credentials live in an Airflow connection defined through environment variables, never in code.*
+> **EN ·** *Daily Airflow pipeline that extracts data from a public REST API, loads it idempotently into Amazon Redshift and runs post-load data quality checks. Credentials live in an Airflow connection defined through environment variables, never in code.*
 
 ## Problema
 *Fuente de datos de práctica: [PokeAPI](https://pokeapi.co), una API REST pública. Lo que se evalúa es el patrón de pipeline, no el dominio.*

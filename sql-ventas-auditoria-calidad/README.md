@@ -1,6 +1,6 @@
 # Base de ventas en MySQL con auditoría y controles de calidad
 
-> 🇬🇧 *Relational database in MySQL 8 built from a sample of the Superstore 2020 dataset: 13 tables, 5 views, 2 functions, 2 stored procedures and 4 audit triggers, plus a data-quality script that audits the loaded data.*
+> **EN ·** *Relational database in MySQL 8 built from a sample of the Superstore 2020 dataset: 13 tables, 5 views, 2 functions, 2 stored procedures and 4 audit triggers, plus a data-quality script that audits the loaded data.*
 
 ## Problema
 Pasar un dataset plano de ventas online de EE.UU. a una base relacional que permita analizar ventas y ganancia por región, estado, ciudad, segmento y categoría, y dejar **auditoría** de los cambios sobre las tablas críticas.

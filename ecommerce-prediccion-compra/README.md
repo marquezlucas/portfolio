@@ -1,6 +1,6 @@
 # ¿Quién termina comprando? Datos para predecir conversión en e-commerce
 
-> 🇬🇧 *EDA and data preparation to predict whether an e-commerce interaction ends in a purchase, joining three sources (transactions, customers, products).*
+> **EN ·** *EDA and data preparation to predict whether an e-commerce interaction ends in a purchase, joining three sources (transactions, customers, products).*
 
 ## Objetivo
 Predecir si una interacción termina en **compra** (`Interaction type`) e identificar qué variables influyen en esa decisión.

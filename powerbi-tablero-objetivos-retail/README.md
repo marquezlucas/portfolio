@@ -2,7 +2,7 @@
 
 *Caso: Óptica Magoo, pyme de la provincia de Buenos Aires.*
 
-> 🇬🇧 *Team project. Executive Power BI dashboard for a small optical retail business: tracks 2021 targets (sales growth, units, gross margin, fixed costs) with traffic-light alerts across 15 report pages and 88 DAX measures.*
+> **EN ·** *Team project. Executive Power BI dashboard for a small optical retail business: tracks 2021 targets (sales growth, units, gross margin, fixed costs) with traffic-light alerts across 15 report pages and 88 DAX measures.*
 
 ![Seguimiento de objetivos](assets/seguimiento-objetivos.png)
 
