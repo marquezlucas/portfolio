@@ -16,10 +16,11 @@
 
 ## Empezá por acá
 
-Si tenés 2 minutos, estos tres muestran mejor cómo trabajo:
+Si tenés 2 minutos, empezá por estos:
 
 | | Proyecto | En una línea |
 |---|---|---|
+| ⛽ | [**Producción en Vaca Muerta: pipeline y calidad de datos**](https://github.com/marquezlucas/produccion-vaca-muerta) | Pipeline en DuckDB sobre 426 mil registros públicos con **14 reglas de calidad**: encontré 3.018 registros que producen con el pozo "parado" y que el rendimiento por metro de rama cae desde 2020. |
 | 🔍 | [**Base de ventas con auditoría y controles de calidad**](sql-ventas-auditoria-calidad/) | Audité mi propia base SQL con 9 reglas de calidad y encontré que **18 de 30 ventas** tenían ganancia mayor que la venta: un error de carga que el modelo no detectaba. |
 | ⚙️ | [**Pipeline API → Redshift con Airflow**](pipeline-api-redshift-airflow/) | Carga diaria **idempotente**, credenciales fuera del código y una tarea de **controles de calidad** que deja el DAG en rojo si la carga sale incompleta. |
 | 📊 | [**Tablero de objetivos comerciales (óptica)**](powerbi-tablero-objetivos-retail/) | Tablero de Power BI con 15 páginas y 88 medidas DAX. Mostró **+88 % de ventas** contra la meta del 80 % y detectó que los gastos (49 %) eran el desvío principal. |
@@ -30,14 +31,15 @@ Si tenés 2 minutos, estos tres muestran mejor cómo trabajo:
 
 | # | Proyecto | Tipo | Stack | Destacado |
 |---|---|---|---|---|
-| 1 | [**Base de ventas con auditoría y controles de calidad**](sql-ventas-auditoria-calidad/) | SQL · Calidad de datos | MySQL 8 | Vistas, funciones, SP, triggers de auditoría y 9 controles de calidad |
-| 2 | [**Pipeline API → Redshift con Airflow**](pipeline-api-redshift-airflow/) | Ingeniería de datos | Airflow · Docker · Redshift · Python | Carga idempotente, controles de calidad post-carga y tests |
-| 3 | [**Tablero de objetivos comerciales (óptica)**](powerbi-tablero-objetivos-retail/) | BI | Power BI · DAX · Power Query | 15 páginas, 88 medidas, integridad referencial corregida en el ETL (en equipo) |
-| 4 | [**Atribución multicanal y simulador de presupuesto**](atribucion-marketing-roi-streamlit/) | Analítica · App | Streamlit · Plotly · pandas | ROI por canal y simulador de reasignación, con los supuestos explícitos |
-| 5 | [**Precio por m²: regex y regresión**](precio-m2-properati-regex-regresion/) | Ciencia de datos | pandas · regex · statsmodels · scikit-learn | Imputación con regex sobre texto libre; R² ≈ 0,65 en test (en equipo) |
-| 6 | [**¿Quién termina comprando?**](ecommerce-prediccion-compra/) | EDA · ML | pandas · seaborn | Integración de 3 fuentes y preparación de datos para clasificación |
-| 7 | [**PySpark: RDD, DataFrame y MLlib**](pyspark-rdd-dataframe-mllib/) | Big data | PySpark | La misma agregación con RDDs y con DataFrames, y árbol de decisión con MLlib |
-| 8 | [**Arquitectura AWS para una pyme**](aws-arquitectura-migracion-pyme/) | Arquitectura cloud | AWS (RDS Multi-AZ, S3, EC2, VPC) | Propuesta de migración de planillas y ERP local a la nube |
+| 1 | [**Producción en Vaca Muerta**](https://github.com/marquezlucas/produccion-vaca-muerta) (repo propio) | Ingeniería y calidad de datos | DuckDB · SQL · Python | Capas raw → staging → marts y 14 reglas de calidad con severidad |
+| 2 | [**Base de ventas con auditoría y controles de calidad**](sql-ventas-auditoria-calidad/) | SQL · Calidad de datos | MySQL 8 | Vistas, funciones, SP, triggers de auditoría y 9 controles de calidad |
+| 3 | [**Pipeline API → Redshift con Airflow**](pipeline-api-redshift-airflow/) | Ingeniería de datos | Airflow · Docker · Redshift · Python | Carga idempotente, controles de calidad post-carga y tests |
+| 4 | [**Tablero de objetivos comerciales (óptica)**](powerbi-tablero-objetivos-retail/) | BI | Power BI · DAX · Power Query | 15 páginas, 88 medidas, integridad referencial corregida en el ETL (en equipo) |
+| 5 | [**Atribución multicanal y simulador de presupuesto**](atribucion-marketing-roi-streamlit/) | Analítica · App | Streamlit · Plotly · pandas | ROI por canal y simulador de reasignación, con los supuestos explícitos |
+| 6 | [**Precio por m²: regex y regresión**](precio-m2-properati-regex-regresion/) | Ciencia de datos | pandas · regex · statsmodels · scikit-learn | Imputación con regex sobre texto libre; R² ≈ 0,65 en test (en equipo) |
+| 7 | [**¿Quién termina comprando?**](ecommerce-prediccion-compra/) | EDA · ML | pandas · seaborn | Integración de 3 fuentes y preparación de datos para clasificación |
+| 8 | [**PySpark: RDD, DataFrame y MLlib**](pyspark-rdd-dataframe-mllib/) | Big data | PySpark | La misma agregación con RDDs y con DataFrames, y árbol de decisión con MLlib |
+| 9 | [**Arquitectura AWS para una pyme**](aws-arquitectura-migracion-pyme/) | Arquitectura cloud | AWS (RDS Multi-AZ, S3, EC2, VPC) | Propuesta de migración de planillas y ERP local a la nube |
 
 ---
 
