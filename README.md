@@ -78,6 +78,6 @@ portfolio/
 
 ## Sobre mí
 
-Analista de datos con más de 4 años en banca, fintech y telecomunicaciones (BBVA, Getronics para Telefónica Hispam, Wenance). Me especializo en que los datos sean confiables antes de llegar a un tablero. Estudio la Licenciatura en Inteligencia Artificial y Ciencia de Datos en UADE. Me interesan los roles de datos en **energía y minería**.
+Analista de datos con más de 4 años en banca, fintech y telecomunicaciones (BBVA, Getronics para Telefónica Hispam, Wenance). Me especializo en que los datos sean confiables antes de llegar a un tablero. Estudio la Licenciatura en Inteligencia Artificial y Ciencia de Datos en UADE. Me interesan los roles de datos en **energía y minería**, y en **prevención de fraude y riesgo**.
 
 📫 marquezlucas1511@gmail.com · [LinkedIn](https://www.linkedin.com/in/lucas-a-marquez/) · [Perfil de GitHub](https://github.com/marquezlucas)
